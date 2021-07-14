@@ -1,10 +1,15 @@
 tap 'homebrew/cask' || true
 
 brew 'git'
+brew 'autoconf'
 brew 'bash-completion'
+brew 'envconsul'
 brew 'rabbitmq'
 brew 'mysql'
 brew 'mas'
+brew 'autoconf'
+brew 'openssl'
+brew 'azure-cli'
 
 cask 'macdown'
 cask 'sequel-pro'
